@@ -18,3 +18,10 @@
 > Интерфейс 
 
 ![Интерфейс](https://github.com/hebgehogg/GeometryCatcher/blob/main/Photos/Interface.png)
+
+> Конец игры
+
+На скриншоте видна реализация отрицательного счета.
+
+![Интерфейс](https://github.com/hebgehogg/GeometryCatcher/blob/main/Photos/GameEnd.png)
+
